@@ -7,7 +7,7 @@
       "name": "Taka"
     }
   ],
-  "version": "0.0.3",
+  "version": "0.0.4",
   "compatibility": {
     "minimum": 13,
     "verified": 13.344
@@ -24,8 +24,8 @@
       }
     ]
   },
-  "changelog": "https://github.com/takaqiao/sf2e_compendium_cn/releases/tag/0.0.3",
+  "changelog": "https://github.com/takaqiao/sf2e_compendium_cn/releases/tag/0.0.4",
   "url": "https://github.com/takaqiao/sf2e_compendium_cn",
   "manifest": "https://github.com/takaqiao/sf2e_compendium_cn/releases/latest/download/module.json",
-  "download": "https://github.com/takaqiao/sf2e_compendium_cn/releases/download/0.0.3/sf2ecompendium.zip"
+  "download": "https://github.com/takaqiao/sf2e_compendium_cn/releases/download/0.0.4/sf2ecompendium.zip"
 }
