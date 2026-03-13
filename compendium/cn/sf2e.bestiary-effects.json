@@ -1,0 +1,138 @@
+{
+    "label": "Bestiary Effects",
+    "mapping": {
+        "name": "name",
+        "description": "system.description.value"
+    },
+    "folders": {},
+    "entries": {
+        "Effect: Resonance": {
+            "name": "效果：共鸣 Resonance",
+            "description": "<p>你在具有选定特征的效果上的攻击骰和伤害骰获得+1状态加值；具有元素和选定特征的生物在所有攻击和伤害骰上获得该加值。</p>"
+        },
+        "Effect: Engulf and Swallow Whole": {
+            "name": "效果：包卷和活吞 Engulf and Swallow Whole",
+            "description": "<p>效果来自@UUID[Compendium.sf2e.bestiary-ability-glossary-srd.Item.zU3Ovaet4xQ5Gmvy]{Engulf}或@UUID[Compendium.sf2e.bestiary-ability-glossary-srd.Item.uJSseLa57HZYSMUu]{Swallow Whole}</p>\n<p>你陷入受擒，缓慢1，并且必须屏住呼吸，否则便会开始窒息。你可以攻击效果来源，但是仅能以无武装攻击或是轻负载及更小的武器进行攻击。来源的生物在对抗此攻击时视为措手不及。如果效果来源于单次攻击或法术中受到的穿刺或挥砍伤害等于或超过所列的破裂值（Rupture），你重获自由。</p>"
+        },
+        "Effect: Gremlin's Gift": {
+            "name": "Effect: Gremlin's Gift",
+            "description": "<p>You gain +2 status bonus to checks with the chosen skill.</p>"
+        },
+        "Effect: Interstellar Raft": {
+            "name": "Effect: Interstellar Raft",
+            "description": "<p>You gain a 40-foot fly Speed and the cosmic trait.</p>"
+        },
+        "Effect: Input Overload Aura": {
+            "name": "Effect: Input Overload Aura",
+            "description": "<p>Take a –1 status penalty to AC and all saves against sonic effects or effects that alter written or stored data. When attempting to read a document you must succeed at a @Check[flat|dc:5] or you cannot read the document for the next 1d4+1 rounds.</p>"
+        },
+        "Effect: Rallied by the Beasts": {
+            "name": "Effect: Rallied by the Beasts",
+            "description": "<p>You gain 10 temporary Hit Points and deal an additional 1d6 precision damage with your melee strikes.</p>"
+        },
+        "Effect: Self-Destructive Frenzy": {
+            "name": "Effect: Self-Destructive Frenzy",
+            "description": "<p>You become confused and gain a +1 circumstance bonus to attack rolls, a +2 circumstance bonus to damage rolls, and a –2 circumstance penalty to AC.</p>"
+        },
+        "Effect: Follicle Germination": {
+            "name": "Effect: Follicle Germination",
+            "description": "<p>Corzadais gain a +1 circumstance bonus to attack and damage rolls against you.</p>"
+        },
+        "Effect: Scoring": {
+            "name": "Effect: Scoring",
+            "description": "<p>Your tail gains the following traits: deadly d4, hampering, and razing</p>"
+        },
+        "Effect: Archon's Protection": {
+            "name": "效果：圣使护卫 Archon's Protection",
+            "description": "<p>你获得针对触发伤害的所有伤害类型的抗力。</p>"
+        },
+        "Effect: Gremlin's Inverted Gift": {
+            "name": "Effect: Gremlin's Inverted Gift",
+            "description": "<p>You gain –4 status penalty to checks with the chosen skill.</p>"
+        },
+        "Effect: Seep In": {
+            "name": "Effect: Seep In",
+            "description": "<p>You gain an effect depending on the nature of the damage.</p><ul><li><p><strong>Energy Damage</strong> Your attacks deal an additional 2d6 damage of the same type as the energy damage dealt to you.</p></li><li><p><strong>Physical Damage</strong> You gain resistance 6 to physical damage. If the damage was dealt by a weapon made of a special material, such as silver, your battering sludge Strike counts as that same material for the duration of the effect.</p></li></ul>"
+        },
+        "Effect: Lead the Charge": {
+            "name": "Effect: Lead the Charge",
+            "description": "<p>You gain a +1 circumstance bonus to attacks against the marked target.</p>"
+        },
+        "Effect: Bolstering Aura": {
+            "name": "Effect: Bolstering Aura",
+            "description": "<p>You gain 8 temporary Hit Points.</p>"
+        },
+        "Effect: Revert": {
+            "name": "Effect: Revert",
+            "description": "<p>You gain temporary Hit Points.</p>"
+        },
+        "Effect: Siphon Poison": {
+            "name": "Effect: Siphon Poison",
+            "description": "<p>The acid damage die size for your mandibles and acid spit Strikes and Sickening Death ability increase by one step.</p>"
+        },
+        "Effect: Armament of the Archons": {
+            "name": "Effect: Armament of the Archons",
+            "description": "<p>You gain an Arqsheth Strike. It is a martial ranged weapon that deals 2d10 fire damage; is in the laser group; has a range increment of 40 feet; and has the analog, holy, and tracking +2 traits. Strikes made with this weapon deal an extra 1d10 spirit damage.</p>"
+        },
+        "Effect: Sandstorm Vortex": {
+            "name": "Effect: Sandstorm Vortex",
+            "description": "<p>You gain resistance 11 to physical damage.</p>"
+        },
+        "Effect: Colony Mind": {
+            "name": "Effect: Colony Mind",
+            "description": "<p>When you roll a success on a save against a mental effect, you get a critical success instead.</p>"
+        },
+        "Effect: Attunement Aura (Graviton-Attuned)": {
+            "name": "Effect: Attunement Aura (Graviton-Attuned)",
+            "description": "<p>You take a –5-foot status penalty to Speeds.</p>"
+        },
+        "Effect: Natural Thruster": {
+            "name": "Effect: Natural Thruster",
+            "description": "<p>You gain a +75-foot status bonus to your fly Speed and deal an additional 1d10 slashing damage with your tail Strikes.</p>"
+        },
+        "Effect: Sandstorm Veil": {
+            "name": "Effect: Sandstorm Veil",
+            "description": "<p>You gain resistance 6 to physical damage.</p>"
+        },
+        "Effect: Encouraging Hope (Enemies)": {
+            "name": "Effect: Encouraging Hope (Enemies)",
+            "description": "<p>You take a –1 status penalty to all saves against emotion and mental effects.</p>"
+        },
+        "Effect: Divine Farewell": {
+            "name": "Effect: Divine Farewell",
+            "description": "<p>You gain a +1 status bonus to your AC and saving throws against attacks and effects from creatures and hazards with the unholy trait.</p>"
+        },
+        "Effect: Sharpshooter": {
+            "name": "Effect: Sharpshooter",
+            "description": "<p>Your AC bonus from lesser or standard cover is reduced by 1.</p>"
+        },
+        "Effect: Rally the Troops": {
+            "name": "效果：集结部队 Rally the Troops",
+            "description": "<p>You gain temporary hit points.</p>"
+        },
+        "Effect: Blood Renewal": {
+            "name": "Effect: Blood Renewal",
+            "description": "<p>You gain regeneration 15 (cold iron).</p>"
+        },
+        "Effect: Shoot to Kill": {
+            "name": "Effect: Shoot to Kill",
+            "description": "<p>You take a –1 circumstance penalty to your AC.</p>"
+        },
+        "Effect: Encouraging Hope (Allies)": {
+            "name": "Effect: Encouraging Hope (Allies)",
+            "description": "<p>You gain a +1 status bonus to all saves against emotion and mental effects.</p>"
+        },
+        "Effect: Attunement Aura (Photon-Attuned)": {
+            "name": "Effect: Attunement Aura (Photon-Attuned)",
+            "description": "<p>You gain a +5-foot status bonus to Speeds.</p>"
+        },
+        "Effect: Coordinated Fire": {
+            "name": "Effect: Coordinated Fire",
+            "description": "<p>You gain a +2 circumstance bonus to your next attack roll.</p>"
+        },
+        "Effect: Assess Target": {
+            "name": "Effect: Assess Target",
+            "description": "<p>You deal an additional 1d8 damage with your reality ripper against the marked target and increase the range increment of your reality ripper to 80 feet.</p>"
+        }
+    }
+}
